@@ -1,0 +1,97 @@
+﻿header {
+    direction: rtl;
+    text-align: right;
+}
+
+footer {
+    direction: rtl;
+}
+
+.privacyAr {
+    direction: rtl;
+    text-align: right;
+}
+
+.privacyAr dd{
+    margin-right:0;
+}
+
+@media (max-width: 991.98px) {
+    header a, p{
+        font-size:18px;
+    }
+    header span.rd-navbar-submenu-toggle::after{
+        font-size:21px!important;
+    }
+
+    body, body * {
+        font-size: 19px;
+    }
+
+    footer, footer * {
+        font-size: 19px;
+    }
+
+    header li > a {
+        text-align: right;
+        margin-right: -32px;
+    }
+
+    .rd-navbar-submenu-toggle::after {
+        left: 0 !important;
+        right: auto !important;
+    }
+
+    .rd-search .form-label{
+        text-align:right;
+        font-size: 19px
+    }
+}
+
+body div p {
+    direction: rtl;
+}
+
+.rd-navbar-modern.rd-navbar-fixed .rd-navbar-project-hamburger {
+    /* RTL modunda hamburger menüyü sol tarafa sabitle */
+    position: fixed;
+    left: 4px; /*Sağ yerine sol */
+    right: auto; /*'auto' ile sağ konumunu iptal et*/
+}
+
+div.rd-navbar-project-hamburger {
+    margin-right: 16px;
+}
+
+/* Başlangıçta .rd-navbar-modern-project içeriğini sol tarafa kaydır */
+.rd-navbar-modern-project {
+    left: 0;
+    right: auto;
+    transform: translateX(-100%);
+    transition: transform 0.5s ease;
+    display: block; /*Bu satır mevcut durumunuza göre gerekebilir veya gerekmeyebilir */
+}
+
+    /*Hamburger menüye tıklandığında .rd-navbar-modern-project içeriğini görünür yap */
+    .rd-navbar-modern-project.active {
+        transform: translateX(0%);
+    }
+
+ul.rd-menu.rd-navbar-dropdown {
+    right: 0;
+    left: auto;
+}
+
+div.rd-navbar-nav-wrap.toggle-original-elements {
+    right: -768px;
+    left: auto;
+}
+
+    div.rd-navbar-nav-wrap.toggle-original-elements.active {
+        right: 0;
+        left: auto;
+    }
+
+p.rights {
+    font-size: 16px !important;
+}

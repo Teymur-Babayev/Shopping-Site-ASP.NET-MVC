@@ -1,0 +1,283 @@
+﻿<!-- RD Navbar-->
+<div class="rd-navbar-wrap rd-navbar-modern-wrap">
+    <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="70px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+        <div class="rd-navbar-main-outer">
+            <div class="rd-navbar-main">
+                <!-- RD Navbar Panel-->
+                <div class="rd-navbar-panel">
+                    <!-- RD Navbar Toggle-->
+                    <button id="uniqueNavbarToggle" class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                    <!-- RD Navbar Brand-->
+                    <div class="rd-navbar-brand">
+                        <a class="brand" asp-controller="Home" asp-action="Index">
+                            <div class="ayLogoContainer">
+                                <picture class="logoMetin">
+                                    <source srcset="~/siteIMAGES/an_logo-default-149x46-M.webp" type="image/webp">
+                                    <img src="~/siteIMAGES/an_logo-default-149x46-M.png" alt="Logo Resmi Metin" />
+                                </picture>
+                                <picture class="logoResim">
+                                    <source srcset="~/siteIMAGES/an_logo-default-149x46-R.webp" type="image/webp">
+                                    <img src="~/siteIMAGES/an_logo-default-149x46-R.png" alt="Logo Resmi Govde" />
+                                </picture>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="rd-navbar-main-element">
+                    <div class="rd-navbar-nav-wrap">
+                        <!-- RD Navbar Search-->
+                        <div class="rd-navbar-search">
+                            <button class="rd-navbar-search-toggle" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
+                            <form class="rd-search" action="search-results.html" data-search-live="rd-search-results-live" method="GET">
+                                <div class="form-wrap">
+                                    <label class="form-label" for="rd-navbar-search-form-input">@_localization.Getkey("Search...")</label>
+                                    <input class="rd-navbar-search-form-input form-input" id="rd-navbar-search-form-input" type="text" name="s" autocomplete="off" />
+                                    <div class="rd-search-results-live" id="rd-search-results-live"></div>
+                                    <button class="rd-search-form-submit fl-bigmug-line-search74" type="submit"></button>
+                                </div>
+                            </form>
+                        </div>
+                        <!-- RD Navbar Nav-->
+                        <ul class="rd-navbar-nav">
+                            <li id="ayLiLang" class="rd-nav-item active">
+                                <a class="rd-nav-link" href="#">
+                                    <i class="icon-globe">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="18" height="18">><!--!Font Awesome Free 6.5.1 by @@fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64H348.7c2.2 20.4 3.3 41.8 3.3 64zm28.8-64H503.9c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6c78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7c10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5c11.6 26 20.9 58.2 27 94.7zm-209 0H18.6C48.6 85.9 112.2 29.1 190.6 8.4C165.1 42.6 145.3 96.1 135.3 160zM8.1 192H131.2c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zM194.7 446.6c-11.6-26-20.9-58.2-27-94.6H344.3c-6.1 36.4-15.5 68.6-27 94.6c-10.5 23.6-22.2 40.7-33.5 51.5C272.6 508.8 263.3 512 256 512s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6C112.2 482.9 48.6 426.1 18.6 352H135.3zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6c25.5-34.2 45.2-87.7 55.3-151.6H493.4z" fill="#fff" /></svg>&nbsp;
+                                    </i>
+                                    @_localization.Getkey("LangAbbr")
+                                </a>
+                                <ul class="rd-menu rd-navbar-dropdown">
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="ar" asp-route-returnUrl="@Context.Request.Path">عربي</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="en" asp-route-returnUrl="@Context.Request.Path">EN</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="ChangeLanguage" asp-route-culture="tr" asp-route-returnUrl="@Context.Request.Path">TR</a></li>
+                                </ul>
+                            </li>
+                            <li class="rd-nav-item">
+                                <a class="rd-nav-link" asp-controller="Home" asp-action="Index">@_localization.Getkey("Home")</a>
+                            </li>
+                            <li class="rd-nav-item">
+                                <a class="rd-nav-link" asp-controller="Home" asp-action="About">@_localization.Getkey("About")</a>
+                                <!-- RD Navbar Dropdown-->
+                                <ul class="rd-menu rd-navbar-dropdown">
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Who am I?</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">What is my  Services?</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">My Mission</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">My Vision</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">My Principles</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Mode of Work</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Gallery</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Contact me</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Real Estate in Turkiye</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Opportunities in Turkiye</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Investment Opportunities in Turkiye</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About">Setting up a Company in Turkiye</a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About"></a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About"></a></li>
+                                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" asp-controller="Home" asp-action="About"></a></li>
+                                </ul>
+                            </li>
+                            <li class="rd-nav-item">
+                                <a class="rd-nav-link" asp-controller="Home" asp-action="Contact">@_localization.Getkey("Contact")</a>
+                            </li>
+                            <li class="rd-nav-item">
+                                <a class="rd-nav-link" asp-controller="Service" asp-action="MyService">@_localization.Getkey("MyServices")</a>
+                                <!-- RD Navbar Megamenu-->
+                                <ul class="rd-menu rd-navbar-megamenu">
+                                    <li class="rd-megamenu-item">
+                                        <div>
+                                            <h5 class="rd-megamenu-title">Guidance and Counseling Services</h5>
+                                            <ul class="rd-megamenu-list">
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Company formation</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Government supports</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">All kinds of bureaucratic procedures</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Import operations</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Export operations</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Market research</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Feasibility study</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Accounting tasks</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Business meetings</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="rd-megamenu-item">
+                                        <div>
+                                            <h5 class="rd-megamenu-title">Brokerage Services</h5>
+                                            <ul class="rd-megamenu-list">
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Apple Sourcing</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Dried Apricot Supply</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Property Acquisition</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Pharmaceutical Sourcing</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Auto Spare Parts Supply</a></li>
+                                                <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" asp-controller="Service" asp-action="MyService">Construction Materials Supply</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="rd-megamenu-item rd-megamenu-carousel">
+                                        <div>
+                                            <h5 class="rd-megamenu-title">
+                                                <a asp-controller="Service" asp-action="Opportunity">Opportunities</a>
+                                            </h5>
+                                            <!-- Owl Carousel-->
+                                            <div class="owl-carousel owl-navbar" data-loop="false" data-items="1" data-xl-items="2" data-xxl-items="2" data-margin="16" data-dots="true">
+                                                <!-- Thumbnail Classic-->
+                                                <article class="thumbnail thumbnail-mary thumbnail-xxs">
+                                                    <a class="thumbnail-mary-figure" href="/siteIMAGES/project-3-1200x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/navbar-1-272x288.webp" alt="Elma sezonu fırsat resmi" width="272" height="288" /></a>
+                                                    <div class="thumbnail-mary-caption">
+                                                        <div class="icon fl-bigmug-line-zoom60"></div>
+                                                        <h6 class="thumbnail-mary-title"><a asp-controller="Service" asp-action="Opportunity">Elma Sezonu Yaklaşıyor</a></h6>
+                                                    </div>
+                                                </article>
+                                                <!-- Thumbnail Classic-->
+                                                <article class="thumbnail thumbnail-mary thumbnail-xxs">
+                                                    <a class="thumbnail-mary-figure" href="/siteIMAGES/fullwidth-gallery-7-1200x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/navbar-2-272x288.webp" alt="Kuru kayısı indirim fırsat" width="272" height="288" /></a>
+                                                    <div class="thumbnail-mary-caption">
+                                                        <div class="icon fl-bigmug-line-zoom60"></div>
+                                                        <h6 class="thumbnail-mary-title"><a asp-controller="Service" asp-action="Opportunity">Kuru Kayısıda İndirim Fırsatı</a></h6>
+                                                    </div>
+                                                </article>
+                                                <!-- Thumbnail Classic-->
+                                                <article class="thumbnail thumbnail-mary thumbnail-xxs">
+                                                    <a class="thumbnail-mary-figure" href="/siteIMAGES/fullwidth-gallery-8-1200x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/navbar-3-272x288.webp" alt="Lüks muhitte fırsat villa" width="272" height="288" /></a>
+                                                    <div class="thumbnail-mary-caption">
+                                                        <div class="icon fl-bigmug-line-zoom60"></div>
+                                                        <h6 class="thumbnail-mary-title"><a asp-controller="Service" asp-action="Opportunity">Lüks Muhitte Fırsat Villa</a></h6>
+                                                    </div>
+                                                </article>
+                                                <!-- Thumbnail Classic-->
+                                                <article class="thumbnail thumbnail-mary thumbnail-xxs">
+                                                    <a class="thumbnail-mary-figure" href="/siteIMAGES/grid-gallery-4-530x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/navbar-4-272x288.webp" alt="Satılık Makine Fabrikası" width="272" height="288" /></a>
+                                                    <div class="thumbnail-mary-caption">
+                                                        <div class="icon fl-bigmug-line-zoom60"></div>
+                                                        <h6 class="thumbnail-mary-title"><a asp-controller="Service" asp-action="Opportunity">Satılık Makine Fabrikası</a></h6>
+                                                    </div>
+                                                </article>
+                                                <!-- Thumbnail Classic-->
+                                                <article class="thumbnail thumbnail-mary thumbnail-xxs">
+                                                    <a class="thumbnail-mary-figure" href="/siteIMAGES/project-6-530x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/navbar-5-272x288.webp" alt="Ortak arayan müteahhit" width="272" height="288" /></a>
+                                                    <div class="thumbnail-mary-caption">
+                                                        <div class="icon fl-bigmug-line-zoom60"></div>
+                                                        <h6 class="thumbnail-mary-title"><a asp-controller="Service" asp-action="Opportunity">Projeye Ortak olun</a></h6>
+                                                    </div>
+                                                </article>
+                                                <!-- Thumbnail Classic-->
+                                                <article class="thumbnail thumbnail-mary thumbnail-xxs">
+                                                    <a class="thumbnail-mary-figure" href="/siteIMAGES/project-1-1200x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/navbar-6-272x288.webp" alt="10.000 dönüm yatırımlık tarla" width="272" height="288" /></a>
+                                                    <div class="thumbnail-mary-caption">
+                                                        <div class="icon fl-bigmug-line-zoom60"></div>
+                                                        <h6 class="thumbnail-mary-title"><a asp-controller="Service" asp-action="Opportunity">Yatırımlık Tarla</a></h6>
+                                                    </div>
+                                                </article>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="rd-navbar-project-hamburger" data-multitoggle=".rd-navbar-main" data-multitoggle-blur=".rd-navbar-wrap" data-multitoggle-isolate="data-multitoggle-isolate">
+                        <div class="project-hamburger"><span class="project-hamburger-arrow-top"></span><span class="project-hamburger-arrow-center"></span><span class="project-hamburger-arrow-bottom"></span></div>
+                        <div class="project-hamburger-2">
+                            <span class="project-hamburger-arrow"></span><span class="project-hamburger-arrow"></span><span class="project-hamburger-arrow"></span>
+                        </div>
+                        <div class="project-close"><span></span><span></span></div>
+                    </div>
+                </div>
+                <div class="rd-navbar-project rd-navbar-modern-project">
+                    <div class="rd-navbar-project-modern-header">
+                        <h4 class="rd-navbar-project-modern-title">Follow us</h4>
+                        <div class="rd-navbar-project-hamburger" data-multitoggle=".rd-navbar-main" data-multitoggle-blur=".rd-navbar-wrap" data-multitoggle-isolate="data-multitoggle-isolate">
+                            <div class="project-close"><span></span><span></span></div>
+                        </div>
+                    </div>
+                    <div class="rd-navbar-project-content rd-navbar-modern-project-content">
+                        <div>
+                            <p class="text-spacing-25">25 years of experience in the bag, and Anadool's got your back in Turkiye. With Anadool, you can leave your worries behind!</p>
+                            <div class="row row-10 gutters-10" data-lightgallery="group">
+                                <div class="col-6 col-lg-4">
+                                    <!-- Thumbnail Classic-->
+                                    <article class="thumbnail thumbnail-mary">
+                                        <a class="thumbnail-mary-figure" href="/siteIMAGES/gallery-image-14-1200x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/gallery-image-14-124x124.webp" alt="gallery resmi" width="124" height="124" /></a>
+                                        <div class="thumbnail-mary-caption">
+                                            <div class="icon fl-bigmug-line-zoom60"></div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="col-6 col-lg-4">
+                                    <!-- Thumbnail Classic-->
+                                    <article class="thumbnail thumbnail-mary">
+                                        <a class="thumbnail-mary-figure" href="/siteIMAGES/grid-gallery-3-1200x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/gallery-image-15-124x124.webp" alt="galeri Iki resmi" width="124" height="124" /></a>
+                                        <div class="thumbnail-mary-caption">
+                                            <div class="icon fl-bigmug-line-zoom60"></div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="col-6 col-lg-4">
+                                    <!-- Thumbnail Classic-->
+                                    <article class="thumbnail thumbnail-mary">
+                                        <a class="thumbnail-mary-figure" href="/siteIMAGES/grid-gallery-5-1200x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/gallery-image-16-124x124.webp" alt="Şirket Kurdu" width="124" height="124" /></a>
+                                        <div class="thumbnail-mary-caption">
+                                            <div class="icon fl-bigmug-line-zoom60"></div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="col-6 col-lg-4">
+                                    <!-- Thumbnail Classic-->
+                                    <article class="thumbnail thumbnail-mary">
+                                        <a class="thumbnail-mary-figure" href="/siteIMAGES/gallery-image-17-530x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/gallery-image-17-124x124.webp" alt="Evini aldı" width="124" height="124" /></a>
+                                        <div class="thumbnail-mary-caption">
+                                            <div class="icon fl-bigmug-line-zoom60"></div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="col-6 col-lg-4">
+                                    <!-- Thumbnail Classic-->
+                                    <article class="thumbnail thumbnail-mary">
+                                        <a class="thumbnail-mary-figure" href="/siteIMAGES/grid-gallery-2-530x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/gallery-image-18-124x124.webp" alt="Güzel ticaret" width="124" height="124" /></a>
+                                        <div class="thumbnail-mary-caption">
+                                            <div class="icon fl-bigmug-line-zoom60"></div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="col-6 col-lg-4">
+                                    <!-- Thumbnail Classic-->
+                                    <article class="thumbnail thumbnail-mary">
+                                        <a class="thumbnail-mary-figure" href="/siteIMAGES/grid-gallery-1-570x800-original.webp" data-lightgallery="item"><img src="/siteIMAGES/gallery-image-19-124x124.webp" alt="İş görüşmesinden" width="124" height="124" /></a>
+                                        <div class="thumbnail-mary-caption">
+                                            <div class="icon fl-bigmug-line-zoom60"></div>
+                                        </div>
+                                    </article>
+                                </div>
+                            </div>
+                            <ul class="rd-navbar-modern-contacts">
+                                <li>
+                                    <div class="unit unit-spacing-sm">
+                                        <div class="unit-left"><span class="novi-icon icon fa fa-phone"></span></div>
+                                        <div class="unit-body"><a class="link-phone" href="tel:#">+90 532-733-6570</a></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="unit unit-spacing-sm">
+                                        <div class="unit-left"><span class="novi-icon icon fa fa-location-arrow"></span></div>
+                                        <div class="unit-body"><a class="link-location" href="#">Adem Yavuz Mahallesi <br />Yavuz Selim Caddesi <br />48/C Daire:31 <br />34773 Umraniye <br />Istanbul TURKIYE</a></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="unit unit-spacing-sm">
+                                        <div class="unit-left"><span class="novi-icon icon fa fa-envelope"></span></div>
+                                        <div class="unit-body"><a class="link-email" href="mailto:info@anadool.com">info@anadool.com</a></div>
+                                    </div>
+                                </li>
+                            </ul>
+                            <ul class="list-inline rd-navbar-modern-list-social">
+                                <li><a class="novi-icon icon fa fa-facebook" href="https://www.facebook.com/muhammed.ayter"></a></li>
+                                <li><a class="novi-icon icon fa fa-twitter" href="https://twitter.com/mayter03"></a></li>
+                                <li><a class="novi-icon icon fa fa-instagram" href="https://twitter.com/mayter03"></a></li>
+                                <li><a class="novi-icon icon fa fa-pinterest" href="https://twitter.com/mayter03"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>

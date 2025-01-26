@@ -1,0 +1,1257 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\RTL\\js-RTL.js",
+      "PackagePath": "staticwebassets\\RTL\\js-RTL.js"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\RTL\\style-RTL.css",
+      "PackagePath": "staticwebassets\\RTL\\style-RTL.css"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Temp\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\css\\fonts.css.map",
+      "PackagePath": "staticwebassets\\Temp\\css\\fonts.css.map"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\css\\style.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\style.css"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Temp\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\MaterialIcons-Regular.ijmap",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\MaterialIcons-Regular.ijmap"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fl-bigmug-line.eot",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fl-bigmug-line.eot"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fl-bigmug-line.svg",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fl-bigmug-line.svg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fl-bigmug-line.ttf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fl-bigmug-line.ttf"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fl-bigmug-line.woff",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fl-bigmug-line.woff"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\lg.eot",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\lg.eot"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\lg.svg",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\lg.svg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\lg.ttf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\lg.ttf"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\lg.woff",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\lg.woff"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\_blank.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\_blank.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\about-1-519x564.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\about-1-519x564.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-404.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-404.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-503.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-503.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-breadcrumbs.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-breadcrumbs.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-counter-3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-counter-3.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-cta-2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-cta-2.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-cta-3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-cta-3.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-forms.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-forms.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\bg-soon.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-soon.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-1-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-1-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-2-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-2-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-3-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-3-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-4-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-4-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-5-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-5-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-6-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-6-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-7-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-7-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\clients-8-270x145.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\clients-8-270x145.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Temp\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-1-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-1-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-2-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-2-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-3-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-3-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-4-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-4-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-5-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-5-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-6-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-6-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-7-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-7-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-7-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-7-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-8-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-8-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-gallery-8-420x350.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-gallery-8-420x350.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-masonry-gallery-1-420x330.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-masonry-gallery-1-420x330.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-masonry-gallery-2-420x330.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-masonry-gallery-2-420x330.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-masonry-gallery-3-420x690.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-masonry-gallery-3-420x690.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-masonry-gallery-4-420x330.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-masonry-gallery-4-420x330.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-masonry-gallery-5-870x330.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-masonry-gallery-5-870x330.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\fullwidth-masonry-gallery-6-420x330.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\fullwidth-masonry-gallery-6-420x330.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-10-128x120.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-10-128x120.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-11-128x120.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-11-128x120.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-12-128x120.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-12-128x120.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-13-128x120.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-13-128x120.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-14-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-14-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-14-124x124.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-14-124x124.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-15-124x124.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-15-124x124.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-16-124x124.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-16-124x124.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-17-124x124.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-17-124x124.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-17-530x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-17-530x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-18-124x124.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-18-124x124.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gallery-image-19-124x124.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\gallery-image-19-124x124.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gmap_marker.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\gmap_marker.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\gmap_marker_active.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\gmap_marker_active.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-1-370x303.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-1-370x303.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-1-570x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-1-570x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-2-370x303.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-2-370x303.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-2-530x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-2-530x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-3-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-3-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-3-370x303.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-3-370x303.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-4-370x303.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-4-370x303.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-4-530x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-4-530x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-5-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-5-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-5-370x303.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-5-370x303.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-6-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-6-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\grid-gallery-6-370x303.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\grid-gallery-6-370x303.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\ie8-panel\\warning_bar_0000_us.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\ie8-panel\\warning_bar_0000_us.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\image-map-1-570x715.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\image-map-1-570x715.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\isotope-loader.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\isotope-loader.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\logo-default-149x46.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\logo-default-149x46.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\logo-inverse-149x46.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\logo-inverse-149x46.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\logo-inverse-2-149x46.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\logo-inverse-2-149x46.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\mCSB_buttons.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\mCSB_buttons.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\masonry-gallery-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\masonry-gallery-1-270x300.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\masonry-gallery-2-570x300.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\masonry-gallery-2-570x300.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\masonry-gallery-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\masonry-gallery-3-270x300.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\masonry-gallery-4-570x300.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\masonry-gallery-4-570x300.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\masonry-gallery-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\masonry-gallery-5-270x300.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\masonry-gallery-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\masonry-gallery-6-270x300.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\navbar-1-272x288.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\navbar-1-272x288.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\navbar-2-272x288.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\navbar-2-272x288.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\navbar-3-272x288.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\navbar-3-272x288.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\navbar-4-272x288.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\navbar-4-272x288.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\navbar-5-272x288.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\navbar-5-272x288.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\navbar-6-272x288.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\navbar-6-272x288.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-1-770x430.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-1-770x430.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-10-370x307.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-10-370x307.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-11-370x307.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-11-370x307.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-12-370x307.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-12-370x307.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-13-370x307.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-13-370x307.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-14-370x307.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-14-370x307.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-15-370x307.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-15-370x307.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-16-370x267.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-16-370x267.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-17-370x267.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-17-370x267.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-18-370x267.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-18-370x267.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-19-370x267.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-19-370x267.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-2-770x430.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-2-770x430.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-20-370x267.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-20-370x267.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-21-370x267.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-21-370x267.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-22-570x320.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-22-570x320.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-23-570x320.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-23-570x320.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-24-570x320.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-24-570x320.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-25-570x320.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-25-570x320.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-3-770x430.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-3-770x430.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-4-770x430.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-4-770x430.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-5-470x430.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-5-470x430.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-6-270x204.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-6-270x204.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-7-270x204.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-7-270x204.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-8-232x138.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-8-232x138.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\post-9-232x138.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\post-9-232x138.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\preloader.gif"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\preloader.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\preloader.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-1-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-1-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-10-530x480.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-10-530x480.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-11-530x480.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-11-530x480.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-12-530x480.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-12-530x480.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-13-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-13-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-14-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-14-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-15-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-15-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-16-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-16-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-17-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-17-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-18-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-18-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-19-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-19-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-2-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-2-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-3-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-3-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-4-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-4-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-5-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-5-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-6-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-6-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-7-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-7-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-8-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-8-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-9-270x280.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-9-270x280.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-1-108x100.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-1-108x100.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-10-100x100.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-10-100x100.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-2-108x100.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-2-108x100.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-3-108x100.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-3-108x100.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-4-169x152.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-4-169x152.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-5-169x152.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-5-169x152.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-6-169x152.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-6-169x152.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-7-146x132.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-7-146x132.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-8-146x132.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-8-146x132.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\product-mini-9-100x100.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-mini-9-100x100.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-1-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-1-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-1-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-1-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-10-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-10-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-11-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-11-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-12-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-12-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-2-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-2-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-2-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-2-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-3-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-3-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-3-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-3-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-4-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-4-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-4-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-4-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-5-1200x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-5-1200x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-5-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-5-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-6-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-6-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-6-530x800-original.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-6-530x800-original.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-7-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-7-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-8-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-8-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-9-420x308.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-9-420x308.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-minimal-1-168x139.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-minimal-1-168x139.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\project-minimal-2-168x139.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\project-minimal-2-168x139.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\quote-jean.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\quote-jean.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\services-1-370x297.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\services-1-370x297.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\services-2-370x297.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\services-2-370x297.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\services-3-370x297.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\services-3-370x297.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\services-4-370x297.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\services-4-370x297.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\services-5-370x297.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\services-5-370x297.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\services-6-370x297.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\services-6-370x297.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\single-project-1-655x496.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\single-project-1-655x496.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\single-project-2-655x496.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\single-project-2-655x496.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\single-project-3-655x496.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\single-project-3-655x496.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\single-service-1-418x289.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\single-service-1-418x289.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\slide-1-1920x850.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slide-1-1920x850.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\slide-2-1920x850.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slide-2-1920x850.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\slide-3-1920x850.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slide-3-1920x850.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\spotlight-1-770x332.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\spotlight-1-770x332.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\spotlight-2-370x332.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\spotlight-2-370x332.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\spotlight-3-370x332.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\spotlight-3-370x332.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\spotlight-4-370x332.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\spotlight-4-370x332.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\spotlight-5-370x332.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\spotlight-5-370x332.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-1-370x406.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-1-370x406.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-10-270x248.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-10-270x248.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-11-118x118.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-11-118x118.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-12-118x118.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-12-118x118.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-13-118x118.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-13-118x118.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-14-118x118.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-14-118x118.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-2-370x406.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-2-370x406.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-3-370x406.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-3-370x406.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-4-370x366.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-4-370x366.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-5-370x366.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-5-370x366.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-6-370x366.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-6-370x366.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-7-270x248.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-7-270x248.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-8-270x248.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-8-270x248.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\team-9-270x248.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\team-9-270x248.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\testimonials-1-368x503.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\testimonials-1-368x503.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\testimonials-2-368x503.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\testimonials-2-368x503.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\testimonials-3-368x503.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\testimonials-3-368x503.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\text-image.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\text-image.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-1-119x119.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-1-119x119.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-11-75x75.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-11-75x75.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-12-75x75.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-12-75x75.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-13-87x87.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-13-87x87.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-14-87x87.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-14-87x87.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-15-87x87.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-15-87x87.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-16-100x100.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-16-100x100.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-17-100x100.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-17-100x100.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-18-100x100.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-18-100x100.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-2-119x119.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-2-119x119.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-3-119x119.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-3-119x119.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-4-49x49.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-4-49x49.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-5-49x49.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-5-49x49.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\user-6-49x49.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\user-6-49x49.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\video-play.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\video-play.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\vimeo-play.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\vimeo-play.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\images\\youtube-play.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\youtube-play.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\js\\core.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\core.min.js"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\js\\html5shiv.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\html5shiv.min.js"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\js\\pointer-events.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\pointer-events.min.js"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\js\\script.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\script.js"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\Temp\\js\\support.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\support.js"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\html\\Error.html",
+      "PackagePath": "staticwebassets\\html\\Error.html"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\about-1-519x564.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\about-1-519x564.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\an_logo-default-149x46-M.png",
+      "PackagePath": "staticwebassets\\siteIMAGES\\an_logo-default-149x46-M.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\an_logo-default-149x46-M.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\an_logo-default-149x46-M.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\an_logo-default-149x46-MR.png",
+      "PackagePath": "staticwebassets\\siteIMAGES\\an_logo-default-149x46-MR.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\an_logo-default-149x46-MR.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\an_logo-default-149x46-MR.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\an_logo-default-149x46-R.png",
+      "PackagePath": "staticwebassets\\siteIMAGES\\an_logo-default-149x46-R.png"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\an_logo-default-149x46-R.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\an_logo-default-149x46-R.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\bg-404.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\bg-404.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\bg-503.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\bg-503.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\bg-breadcrumbs.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\bg-breadcrumbs.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\favicon.ico",
+      "PackagePath": "staticwebassets\\siteIMAGES\\favicon.ico"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\fullwidth-gallery-7-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\fullwidth-gallery-7-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\fullwidth-gallery-8-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\fullwidth-gallery-8-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-14-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-14-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-14-124x124.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-14-124x124.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-15-124x124.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-15-124x124.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-16-124x124.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-16-124x124.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-17-124x124.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-17-124x124.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-17-530x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-17-530x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-18-124x124.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-18-124x124.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\gallery-image-19-124x124.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\gallery-image-19-124x124.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\grid-gallery-1-570x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\grid-gallery-1-570x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\grid-gallery-2-530x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\grid-gallery-2-530x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\grid-gallery-3-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\grid-gallery-3-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\grid-gallery-4-530x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\grid-gallery-4-530x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\grid-gallery-5-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\grid-gallery-5-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\grid-gallery-6-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\grid-gallery-6-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\navbar-1-272x288.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\navbar-1-272x288.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\navbar-2-272x288.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\navbar-2-272x288.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\navbar-3-272x288.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\navbar-3-272x288.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\navbar-4-272x288.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\navbar-4-272x288.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\navbar-5-272x288.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\navbar-5-272x288.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-1-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-1-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-2-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-2-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-3-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-3-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-4-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-4-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-5-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-5-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-6-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-6-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-7-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-7-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-8-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-8-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-9-270x280.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-9-270x280.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-mini-1-108x100.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-mini-1-108x100.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-mini-2-108x100.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-mini-2-108x100.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\product-mini-3-108x100.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\product-mini-3-108x100.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-12-420x308.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-12-420x308.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-2-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-2-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-2-420x308.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-2-420x308.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-3-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-3-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-4-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-4-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-4-420x308.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-4-420x308.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-5-1200x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-5-1200x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-5-420x308.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-5-420x308.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\project-6-530x800-original.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\project-6-530x800-original.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\slide-1-1920x850.jpg",
+      "PackagePath": "staticwebassets\\siteIMAGES\\slide-1-1920x850.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\slide-1-1920x850.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\slide-1-1920x850.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\slide-2-1920x850.jpg",
+      "PackagePath": "staticwebassets\\siteIMAGES\\slide-2-1920x850.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\slide-2-1920x850.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\slide-2-1920x850.webp"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\slide-3-1920x850.jpg",
+      "PackagePath": "staticwebassets\\siteIMAGES\\slide-3-1920x850.jpg"
+    },
+    {
+      "Id": "D:\\KRSWorking\\Anadool\\AnadoolApp\\wwwroot\\siteIMAGES\\slide-3-1920x850.webp",
+      "PackagePath": "staticwebassets\\siteIMAGES\\slide-3-1920x850.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnadoolApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AnadoolApp.props",
+      "PackagePath": "build\\AnadoolApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AnadoolApp.props",
+      "PackagePath": "buildMultiTargeting\\AnadoolApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AnadoolApp.props",
+      "PackagePath": "buildTransitive\\AnadoolApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

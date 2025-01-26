@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang=@_localization.Getkey("lang")>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Türkiye'deki iş ve yatırım fırsatları için profesyonel danışmanlık ve aracılık hizmetleri. Ürün temini ve operasyonel destekle işlerinizi kolaylaştırıyoruz.">
+    <title>Anadool: Türkiye İş Danışmanlığı | Aracılık ve Destek Hizmetleri</title>
+    <link rel="icon" href="~/siteIMAGES/favicon.ico" type="image/x-icon">
+
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:400,500%7CTeko:300,400,500%7CMaven+Pro:500">
+    <link rel="stylesheet" href="~/Temp/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/Temp/css/fonts.css">
+    <link rel="stylesheet" href="~/Temp/css/style.css">
+
+    @using System.Globalization
+    @if (CultureInfo.CurrentCulture.TextInfo.IsRightToLeft)
+    {
+        <link href="~/RTL/style-RTL.css" rel="stylesheet" />
+    }
+</head>
+
+<body>
+    <div class="preloader">
+        <div class="preloader-body">
+            <div class="cssload-container">
+                <span></span><span></span><span></span><span></span>
+            </div>
+        </div>
+    </div>
+    <div class="page">
+        <header class="section page-header">
+            <partial name="_Navbar" />
+            @RenderSection("Header", false)
+        </header>
+
+        <section>
+            @RenderBody()
+        </section>
+
+        <footer class="page-footer">
+            <partial name="_Footer" />
+            @RenderSection("Footer", false)
+        </footer>
+    </div>
+    <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <script>
+        /*Ana Sayfa dışındaki tüm sayfaların navbar'ı klasik görünümde olsun'*/
+        document.addEventListener("DOMContentLoaded", function () {
+            // nav elementini ve onun ebeveyn div'ini seç
+            var navElement = document.querySelector("nav");
+            var parentDiv = navElement ? navElement.parentNode : null;
+
+            // Mevcut sayfanın yolunu kontrol et
+            var path = window.location.pathname;
+
+            // Eğer index sayfasındaysak, class'ı ekle; değilse, kaldır
+            if (parentDiv && (path === "/" || path === "/index" || path === "/home")) {
+                // Eğer "nav" elementinin parent div'i varsa ve doğru sayfadaysak, class'ı ekle
+                parentDiv.classList.add("rd-navbar-modern-wrap");
+            } else if (parentDiv) {
+                // Doğru sayfada değilsek, class'ı kaldır
+                parentDiv.classList.remove("rd-navbar-modern-wrap");
+            }
+        });
+
+    </script>
+    <!-- Javascript Temp-->
+    <script src="~/Temp/js/core.min.js"></script>
+    <script src="~/Temp/js/script.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // RTL dil kontrolü
+            var lang = document.documentElement.lang; // HTML lang attributunu kullanarak dil kontrolü
+            if (lang === 'ar') { // Arapça için kontrol
+                var script = document.createElement('script');
+                script.src = '/RTL/js-RTL.js'; // RTL için özel JavaScript dosyası
+                document.body.appendChild(script);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
+<head>
+    <title>404 Page</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <link rel="icon" href="/siteImages/favicon.ico" type="image/x-icon">
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:400,500%7CTeko:300,400,500%7CMaven+Pro:500">
+    <link rel="stylesheet" href="/Temp/css/bootstrap.css">
+    <link rel="stylesheet" href="/Temp/css/fonts.css">
+    <link rel="stylesheet" href="/Temp/css/style.css">
+</head>
+<body>
+    <div class="preloader">
+        <div class="preloader-body">
+            <div class="cssload-container">
+                <span></span><span></span><span></span><span></span>
+            </div>
+        </div>
+    </div>
+    <div class="page">
+        <section class="section section-single section-404 novi-background context-dark">
+            <div class="section-single-inner">
+                <header class="section-single-header page-header">
+                    <div class="page-head-inner">
+                        <a class="brand" asp-controller="Home" asp-action="Index"><img class="brand-logo-dark" src="/siteIMAGES/an_logo-default-149x46-MR.webp" alt="page Logo Image" width="149" height="46" /><img class="brand-logo-light" src="/siteIMAGES/an_logo-default-149x46-MR.webp" alt="page Logo Image" width="149" height="46" /></a>
+                    </div>
+                </header>
+
+                <div class="section-single-main">
+                    <div class="container">
+                        <h1 class="title-modern">Page not found<span>404</span></h1>
+                        <p class="big text-spacing-25">You may have mistyped the address or the page may have moved.</p><a class="button button-secondary button-ujarak" asp-controller="Home" asp-action="Index">Go to home page</a>
+                    </div>
+                </div>
+                <div class="section-single-footer">
+                    <div class="container text-center">
+                        <!-- Rights-->
+                        <p class="rights"><span>Anadool</span><span>&nbsp;</span><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><a asp-controller="Home" asp-action="Privacy">Privacy Policy</a><span>.</span></p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="box-position novi-bg novi-bg-img" style="background-image: url(/siteIMAGES/bg-404.webp);"></div>
+        </section>
+    </div>
+    <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Javascript-->
+    <script src="/Temp/js/core.min.js"></script>
+    <script src="/Temp/js/script.js"></script>
+</body>
+</html>

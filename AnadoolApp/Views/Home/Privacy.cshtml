@@ -1,0 +1,20 @@
+﻿<!-- Breadcrumbs -->
+<section class="section breadcrumbs-custom-inset">
+    <div class="breadcrumbs-custom context-dark">
+        <div class="container">
+            <br />
+            <h2 class="breadcrumbs-custom-title">Privacy Policy</h2>
+            <ul class="breadcrumbs-custom-path">
+                <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li class="active">Privacy Policy</li>
+            </ul>
+        </div>
+        <div class="box-position novi-bg novi-bg-img" style="background-image: url(/siteImages/bg-breadcrumbs.webp);"></div>
+    </div>
+</section>
+<!-- Privacy Policy-->
+<section class="section novi-bg novi-bg-img section-xl bg-default text-start">
+    <div class="container">
+        <p>@Html.Raw(ViewBag.PrivacyPolicyText)</p>
+    </div>
+</section>
